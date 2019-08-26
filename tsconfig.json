@@ -18,9 +18,5 @@
     "target": "ESNext"
   },
   "include": ["src"],
-  "exclude": ["node_modules/**"],
-  "tsgir": {
-    "moduleName": "gnome-gobject",
-    "output": "src/index"
-  }
+  "exclude": ["node_modules/**"]
 }
