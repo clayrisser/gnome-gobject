@@ -4,6 +4,8 @@
 
 > typescript bindings for gnome gobject
 
+![](assets/gnome-gobject.png)
+
 Please ★ this repo if you found it useful ★ ★ ★
 
 ## Features
